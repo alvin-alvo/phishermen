@@ -1,0 +1,5 @@
+/*
+  This file should NOT contain Tailwind directives if it's in public/.
+  Move all @tailwind directives and custom styles to src/index.css for Vite + Tailwind to work.
+  This file should be empty or only contain fallback styles if needed.
+*/
